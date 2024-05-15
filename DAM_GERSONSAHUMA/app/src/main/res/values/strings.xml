@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">DAM_GERSONSAHUMA</string>
+    <string name="boton_enviar">Enviar</string>
+    <string name="radiobuttom_IngenieriaSistemas">Ingeniería de Sistemas</string>
+    <string name="radiobuttom_IngenieriaAmbiental">Ingeniería Ambiental</string>
+    <string name="radiobuttom_IngenieriaMecanica">Ingeniería Mecánica</string>
+    <string name="radiobuttom_administracion">Administración</string>
+    <string name="checkBox_radio">Radio</string>
+    <string name="checkbox_amigo">Amigo</string>
+    <string name="checkBox_Internet">Internet</string>
+    <string name="checkBox_publicidad">Publicidad</string>
+    <string name="text_date">Date</string>
+    <string name="text_fechaNacimiento">Fecha de Nacimiento</string>
+    <string name="text_Clave">Clave</string>
+    <string name="text_CorreoElectronico">Correo electrónico</string>
+    <string name="text_ApellidosNombre">Apellidos y Nombre</string>
 </resources>
